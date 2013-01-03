@@ -37,5 +37,5 @@ Slim3.StructuredParamRequestHandler
 
     List<Employee> employees = asList("employees");
 
-などと書くだけでパラメータが取得できるかもしれない。
+などと書くだけでパラメータが取得できるかもしれない。できるといいな。
 
