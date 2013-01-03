@@ -8,9 +8,11 @@
 <form action="sample" method="post">
   <table id="employees">
     <thead>
-      <th>ID</th>
-      <th>Name</th>
-      <th>Address</th>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+      </tr>
     </thead>
     <tbody>
 <c:forEach var="emp" items="${employees}">
